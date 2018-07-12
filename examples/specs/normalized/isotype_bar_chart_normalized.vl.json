@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "description": "Inspired by this [Only An Ocean Between, 1943](http://www.thomwhite.co.uk/?p=1303). Population Live Stock, p.13. This example was created by [@jwoLondon](https://github.com/jwoLondon)",
   "config": {"view": {"stroke": ""}},
   "data": {
     "values": [

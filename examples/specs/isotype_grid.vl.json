@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "description": "Inspired by this [D3 example by Alan Smith](http://bl.ocks.org/alansmithy/d832fc03f6e6a91e99f4). Drag region to select. This example was created by [@jwoLondon](https://github.com/jwoLondon)",
   "config": {"view": {"stroke": ""}},
   "width": 400,
   "height": 400,
